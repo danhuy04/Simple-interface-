@@ -1,0 +1,6 @@
+Câu1:
+-Có thể tạo được một ứng dụng di động thực tế có ích, nâng cao kiến thức về lập trình hướng đối tượng và các framework 
+-Có kinh nghiệm làm ứng dụng mở ra cơ hội thực tập ỏ các công ty 
+
+Câu2:
+Trong 10 năm tới lập trình di động sẽ phát triển mạnh mẽ vì sự phát triển của điện thoại di động kéo theo việc lập trình di động sẽ cung phát triển
